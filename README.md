@@ -1,1 +1,4 @@
-# VUT_FIT_IDS
+# Databázové systémy
+
+#### Autor
+- Dušan Čičmiš <xcicmi00@stud.fit.vutbr.cz>
